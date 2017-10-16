@@ -1,0 +1,12 @@
+#columnOne, #columnTwo {
+            float: left;
+            width: 50%;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        li {
+            cursor: pointer;
+        }
