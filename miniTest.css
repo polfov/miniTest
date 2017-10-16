@@ -1,6 +1,9 @@
+.wrapper {
+  display: flex;
+}
+
 #columnOne, #columnTwo {
-  float: left;
-  width: 50%;
+  flex: 1;
 }
 
 .hidden {
