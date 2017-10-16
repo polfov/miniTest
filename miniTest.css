@@ -1,12 +1,12 @@
 #columnOne, #columnTwo {
-            float: left;
-            width: 50%;
-        }
+  float: left;
+  width: 50%;
+}
 
-        .hidden {
-            display: none;
-        }
+.hidden {
+  display: none;
+}
 
-        li {
-            cursor: pointer;
-        }
+li {
+  cursor: pointer;
+}
