@@ -1,3 +1,4 @@
+'use strict'
 // ColumnOne code.
 // Creates inputted number of elements, adds a random color as a 
 // data attribute and adds an event listener for click
